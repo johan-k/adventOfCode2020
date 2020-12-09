@@ -10,7 +10,7 @@ class Exo1 {
     static int exo011 ()
     {
         List<String> datas;
-        datas = lectureFichier ("C:\\Users\\jojod\\Documents\\Advent of code\\2020\\AventOfCode2020\\src\\puzzle1.txt");
+        datas = lectureFichier ("C:/Users/Utilisateur/Documents/git/adventOfCode2020/src/puzzle1.txt");
         int a;
         int b;
 
@@ -35,7 +35,7 @@ class Exo1 {
     static int exo012 ()
     {
         List<String> datas;
-        datas = lectureFichier ("C:\\Users\\jojod\\Documents\\Advent of code\\2020\\AventOfCode2020\\src\\puzzle1.txt");
+        datas = lectureFichier ("C:/Users/Utilisateur/Documents/git/adventOfCode2020/src/puzzle1.txt");
         int a;
         int b;
         int c;

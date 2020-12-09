@@ -8,14 +8,14 @@ class Exo3 {
 
     static int Exo031(){
         List<String> datas;
-        datas = lectureFichier("C:\\Users\\jojod\\Documents\\Advent of code\\2020\\AventOfCode2020\\src\\puzzle3.txt");
+        datas = lectureFichier("C:/Users/Utilisateur/Documents/git/adventOfCode2020/src/puzzle3.txt");
 
         // x et y sont les maxs, ligne et colonne sont les curseurs
         int y;
         int x;
         y = datas.size();
         x = datas.get(0).length();
-        int nbArbre = 0;
+        int nbArbre;
 
         char[][] tabLigneColonne;
         tabLigneColonne = creationPlateau(datas);
@@ -29,7 +29,7 @@ class Exo3 {
 
     static int Exo032(){
         List<String> datas;
-        datas = lectureFichier("C:\\Users\\jojod\\Documents\\Advent of code\\2020\\AventOfCode2020\\src\\puzzle3.txt");
+        datas = lectureFichier("C:/Users/Utilisateur/Documents/git/adventOfCode2020/src/puzzle3.txt");
 
         // x et y sont les maxs, ligne et colonne sont les curseurs
         int y, colonne;
@@ -37,11 +37,11 @@ class Exo3 {
         y = datas.size();
         x = datas.get(0).length();
         Boolean arbre;
-        int nbArbre1 = 0;
-        int nbArbre2 = 0;
-        int nbArbre3 = 0;
-        int nbArbre4 = 0;
-        int nbArbre5 = 0;
+        int nbArbre1;
+        int nbArbre2;
+        int nbArbre3;
+        int nbArbre4;
+        int nbArbre5;
 
         char[][] tabLigneColonne;
         tabLigneColonne = creationPlateau(datas);
