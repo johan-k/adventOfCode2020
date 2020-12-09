@@ -1,0 +1,11 @@
+
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÓÁö¹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬÷ç®
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(²ºò¼ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‡§±ñ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(áË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÝ€üùÿÿÿÿ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šƒéÀûÿÿÿÿ
