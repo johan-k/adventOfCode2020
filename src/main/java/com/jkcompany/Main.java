@@ -38,6 +38,16 @@ public class Main {
         repExo032= Exo3.Exo032();
         System.out.println("Réponse Exo 3.2 : " + repExo032);
 
+        // Exo 6.1
+        int repExo061;
+        repExo061= Exo6.Exo061();
+        System.out.println("Réponse Exo 6.1 : " + repExo061);
+
+        // Exo 6.2
+        int repExo062;
+        repExo062= Exo6.Exo062();
+        System.out.println("Réponse Exo 6.2 : " + repExo062);
+
 
 
         System.out.println("test");
